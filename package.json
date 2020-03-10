@@ -4,6 +4,7 @@
   "description": "Simple express server that accepts get requests and returns a feature collection with geojson polygons",
   "main": "index.js",
   "scripts": {
+    "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
